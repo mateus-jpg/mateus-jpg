@@ -26,7 +26,7 @@ I'm currently exploring and building products around:
 - *Firebase/GCP-based multi-tenant systems*
 - *Secure document and case-management workflows*
 - *Cloud automation and migration tooling*
-- A standalone-first product idea: *version control for creative files*, starting from Photoshop/PSD files, with timelines, layer-level changes and visual diffs
+- A standalone-first product idea: *some secret program creative files*, starting from Photoshop/PSD files, will ser in the future 🧐
 
 ---
 
